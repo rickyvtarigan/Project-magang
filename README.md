@@ -1,17 +1,17 @@
 ## **Dokumentasi Projek**
- **Website Profile Koperasi RSBP Batam**
 
-
-
+**Website Profile Koperasi RSBP Batam**
 
 ### `File System`
 
 #### -File Root (utama)
+
 ```
 Project2 -> src -> index.html
 ```
 
 #### -File Input & Output CSS
+
 ```
 Input
     -Project2 -> src -> css -> input.css
@@ -19,7 +19,6 @@ Input
 Output
     -Project2 -> dist -> output.css
 ```
-
 
 ### `Run Project`
 

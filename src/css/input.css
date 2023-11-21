@@ -18,7 +18,7 @@ body {
 	}
 
 	.badge {
-		@apply w-[52px] h-[21px] bg-blue text-white rounded-md;
+		@apply w-[58px] h-[21px] bg-blue text-white rounded-md;
 	}
 	.card-image {
 		background-size: cover;

@@ -593,6 +593,10 @@ video {
   display: none;
 }
 
+.h-10 {
+  height: 2.5rem;
+}
+
 .h-\[159px\] {
   height: 159px;
 }
@@ -620,6 +624,10 @@ video {
 .h-fit {
   height: -moz-fit-content;
   height: fit-content;
+}
+
+.w-10 {
+  width: 2.5rem;
 }
 
 .w-\[200px\] {
@@ -829,7 +837,7 @@ video {
 
 .badge {
   height: 21px;
-  width: 52px;
+  width: 58px;
   border-radius: 0.375rem;
   --tw-bg-opacity: 1;
   background-color: rgb(16 33 139 / var(--tw-bg-opacity));
